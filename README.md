@@ -8,4 +8,4 @@
 - O arquivo example_table.sqlite.sql indica a estrutura das tabelas Notes e Students que foram utilizadas para validação da consulta.
 - Os arquivos Notes.json e Students.json apresentam os dados que foram carregados nas tabelas Notes e Students, indicadas no enunciado do problema. Esses dados de exemplo foram usados para validação da consulta
 
-** há um erro no exemplo do enunciado, as estudantes Marcela e Julia tem nota consolidada igual a 9, ou seja, tem nota consolidada igual e maior, elas deveriam estar ordenadas em ordem alfabética, mas não estão. A resolução desconsiderou o que está apresentado como resultado e se baseou no que foi descrito pelo enunciado. 
+** há um erro no exemplo do enunciado, as estudantes Marcela e Julia tem nota consolidada igual a 9, ou seja, tem nota consolidada igual e maior 8, por isso, elas deveriam estar ordenadas por ordem alfabética, mas no exemplo de output elas não estão. A resolução desconsiderou o que está apresentado como resultado e se baseou no que foi descrito pelo enunciado. 
