@@ -1,5 +1,5 @@
-# teste_item3
-- A consulta que responde ao problema do teste está no arquivo item3.sql
+# teste_item5
+- A consulta que responde ao problema do teste está no arquivo item5.sql
 - A consulta gera como uma resposta um tabela com o nome dos alunos e suas respectivas notas consolidadas e notas exatas. 
 - Aqueles que tiveram nota menor que 8 estão com o nome substituído por NULL.
 - Os resultados estão ordenados pela nota consolidada.
