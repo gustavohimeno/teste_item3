@@ -1,0 +1,1 @@
+SELECT CASE WHEN n.Grade < 8 THEN NULL ELSE s.name END, n.Grade, s.Value FROM Students AS s JOIN Notes AS n ON s.Value BETWEEN n.Min_Value AND n.Max_Value ORDER BY n.Grade DESC, s.Name, s.Value;
